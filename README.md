@@ -1,4 +1,4 @@
-# 🪙 Traveling salesman problem
+# 🚶‍♂️ Traveling salesman problem
 
 Solving the travelling salesman problem using a genetic algorithm to try to get as close as possible to a correct answer in an acceptable time.
 First of all, there's the genetics.py file, which handles the problem with random cities (point cloud), and then there's the barathon_genetics.py file, which tests the algorithm on the bars that took part in the last Toulouse barathon in 2023.
